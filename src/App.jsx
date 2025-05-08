@@ -1,7 +1,9 @@
+import UserCV from "./pages/UserCV";
+
 const App = () => {
     return (
         <>
-            <h1>Salam</h1>
+            <UserCV />
         </>
     );
 };
